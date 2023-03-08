@@ -39,7 +39,9 @@ INTEGRATE SONAR_CLOUD WITH JENKINS AND PUBLISH TEST RESULTS TO SONAR_CLOUD
 
 * Let us give the permissions
 ![preview](images.png/sonar17.png)
+
 * Now Let us create token for authentication
+  
 ![preview](images.png/sonar18.png)
 ![preview](images.png/sonar19.png)
 * Now copt the token and preserve somewhere, after this we cannot get the token back..we have to cteate new one. 
