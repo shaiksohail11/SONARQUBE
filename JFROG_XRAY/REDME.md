@@ -41,6 +41,7 @@ SCANNING DOCKER IMAGES USING X-RAY
 * I have selected windows because I want to scan the image visually.
     * Paste the above command in your windows termainal as an Administrator.
 * Let us perform linux scanning after this it totally depends on CLI
+![preview](IMAGES.png/MODIFIED.png)
 ![preview](IMAGES.png/xray17.png)
 ![preview](IMAGES.png/xray18.png)
 ![preview](IMAGES.png/xray19.png)
