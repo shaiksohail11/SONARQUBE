@@ -3,7 +3,7 @@ SCANNING DOCKER IMAGES USING X-RAY
 ## PRE-REQUISUITE:
 ------------------
 
-* We need a virtual a Virtual machine (VM) with docker installed in it.
+* We need a Virtual machine (VM) with docker installed in it.
    * [Refer Here](https://get.docker.com/) for docker installation steps.
 ![preview](IMAGES.png/xray1.png)
 * Let us pull a jenkins image
